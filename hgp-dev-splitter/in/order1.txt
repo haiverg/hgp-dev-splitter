@@ -1,0 +1,6 @@
+10 x
+20 xx
+30 xxx
+40 xxxx
+50 xxxxx
+60 xxxxxx
